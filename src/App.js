@@ -11,12 +11,14 @@ import Home from "./Pages/Home/Home/Home.jsx";
 import Login from "./Pages/Login/Login";
 import NotFound from "./Pages/NotFound/NotFound";
 import Service from "./Pages/Services/Service/Service";
+import Header from "./Pages/Home/Header/Header";
 
 function App() {
   return (
     <div className="App">
       <AuthProvider>
         <Router>
+          <Header />
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/home" element={<Home />} />
