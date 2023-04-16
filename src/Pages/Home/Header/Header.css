@@ -9,7 +9,7 @@
 }
 
 .head-bg {
-    background-color: #004caa;
+    background-color: "white";
 }
 
 .list-item {
@@ -37,7 +37,7 @@
 }
 
 .userName {
-    color: #004caa;
+    color: "white";
     margin-left: 5px;
 }
 
