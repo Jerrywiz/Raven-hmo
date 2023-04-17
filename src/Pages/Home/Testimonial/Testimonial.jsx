@@ -29,7 +29,7 @@ const Testimonial = () => {
                             <div className="client-img">
                                 <img src={client} alt="" />
                             </div>
-                            <h3 className="mt-4">Aliceano Colby</h3>
+                            <h3 className="mt-4">Rebecca Adeleke</h3>
                             <span>CEO of Prime IT</span>
                         </div>
                     </Col>

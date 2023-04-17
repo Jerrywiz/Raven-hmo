@@ -13,7 +13,7 @@ const Safety = () => {
                         <div className="section-title">
                             <h1>Safety First</h1>
                         </div>
-                        <p className="w-50 m-auto content-inner">Since 1998, Donto Dentistry has been proud to combine modern techniques and high-tech equipment. Dr. John Dae, Micha and his team deliver a personalized and comfortable dental care experience unlike any other Mason dentist.</p>
+                        <p className="w-50 m-auto content-inner">Since 1998, we have  been proud to combine modern techniques and high-tech equipment. Dr. John Dae, Micha and his team deliver a personalized and comfortable health care experience unlike any other HMO.</p>
                     </Col>
                 </Row>
                 <Row>
