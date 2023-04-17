@@ -27,7 +27,7 @@ const About = () => {
                     <Col md={12} lg={6}>
                         <div className="about-right mt-5 mt-lg-0">
                             <div className="about-content text-start" data-aos="zoom-in">
-                                <h1>Welcome to a Family</h1>
+                                <h1>Welcome to this  Family</h1>
                                 <p>Welcome to Raven Raven & Macaw HMo represents everything going to HMO necessary. We have upgraded your dreaded health appointment and transformed it into a relaxing. Consectetur adipisicing elit. Quod ea, consequuntur itaque enim et expedita, optio omnis ipsa magni, perspiciatis totam ipsum! Voluptatibus, neque at.</p>
                                 <a href='/page/about'>About Us</a>
                             </div>
